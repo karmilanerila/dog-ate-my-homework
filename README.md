@@ -11,7 +11,7 @@ The Dog Ate My Homework: Funniest Excuse — make.fun bounty entry. One funny li
 ## Run it
 
 ```sh
-python3 program.py
+python3 main.py
 ```
 
 ---
